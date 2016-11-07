@@ -54,3 +54,4 @@ gen-external-apklibs
 # Other tool auto generated file extentions
 .orig
 .bak
+*.bak
